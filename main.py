@@ -1,3 +1,0 @@
-import can
-
-RMD_X8_SPEED_LIMITED = 514
